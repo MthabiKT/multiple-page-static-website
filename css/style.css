@@ -1,0 +1,23 @@
+body {
+  background-color: #f6eabe;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+.info-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+a {
+  color: #87aaaa;
+}
+img {
+  margin: 30px auto;
+  border-radius: 25px;
+  display: block;
+}
