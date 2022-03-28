@@ -9,11 +9,13 @@ h1 {
 p {
   text-align: center;
 }
-.info-links {
-  display: flex;
-  justify-content: space-evenly;
+footer {
+  display: block;
 }
+footer,
 a {
+  text-align: center;
+  margin: 15px;
   color: #87aaaa;
 }
 img {
