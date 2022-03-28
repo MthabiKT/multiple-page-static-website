@@ -20,4 +20,5 @@ img {
   margin: 30px auto;
   border-radius: 25px;
   display: block;
+  max-width: 100%;
 }
